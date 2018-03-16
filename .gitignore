@@ -103,3 +103,5 @@ ENV/
 *.mat
 
 *.csv
+.DS_Store
+output/*
